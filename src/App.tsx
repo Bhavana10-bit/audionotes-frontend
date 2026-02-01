@@ -143,7 +143,7 @@ export default function App() {
     <div className="min-h-full bg-slate-950 text-slate-100">
       <div className="mx-auto max-w-4xl px-4 py-8">
         <header className="mb-6">
-          <h1 className="text-2xl font-semibold tracking-tight">SpeakEasy</h1>
+          <h1 className="text-2xl font-semibold tracking-tight">AudioNotes</h1>
           <p className="mt-1 text-sm text-slate-300">
             Upload or record audio. Files are stored in MongoDB metadata + on-disk in the backend.
           </p>
