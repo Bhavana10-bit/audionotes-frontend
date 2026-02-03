@@ -252,7 +252,7 @@ export default function App() {
       <div className="relative mx-auto max-w-5xl px-4 py-12 sm:py-16">
         <header className="mb-14 text-center">
           <h1 className="bg-linear-to-r from-emerald-400 via-teal-300 to-cyan-400 bg-clip-text text-5xl font-extrabold tracking-tight text-transparent sm:text-6xl">
-            AudioNotes
+            Speech-to-Text
           </h1>
           <p className="mt-4 text-lg text-slate-400">
             Upload or record audio. Transcriptions saved to MongoDB.
